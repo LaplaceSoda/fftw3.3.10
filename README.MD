@@ -1,5 +1,6 @@
 # fftw3.3.10
-fft3.3.10自编译静态链接库
+FFTw3.3.10自编译双精度静态链接库
+FFTw3.3.10 self-compiled double-precision static link library
 ## 配置参数
 ### Linux
 ```
